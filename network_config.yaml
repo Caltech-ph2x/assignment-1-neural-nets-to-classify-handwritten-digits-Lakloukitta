@@ -1,0 +1,5 @@
+network_structure: [784, 128, 32, 8,  10]
+activation_functions: ['sigmoid', 'sigmoid', 'sigmoid', 'sigmoid']
+learning_rate: 1
+mini_batch_size: 10
+epochs: 30
